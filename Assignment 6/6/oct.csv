@@ -1,0 +1,23 @@
+"Station Name","ST JOHN'S A"
+"Province","NEWFOUNDLAND"
+"Latitude","47.62"
+"Longitude","-52.74"
+"Elevation","140.50"
+"Climate Identifier","8403506"
+"WMO Identifier","71801"
+"TC Identifier","YYT"
+
+"All times are specified in Local Standard Time (LST). Add 1 hour to adjust for Daylight Saving Time where and when it is observed."
+
+"Legend"
+"M","Missing"
+"E","Estimated"
+"NA","Not Available"
+
+"Date/Time","Year","Month","Day","Time","Temp (C)","Temp Flag","Dew Point Temp (C)","Dew Point Temp Flag","Rel Hum (%)","Rel Hum Flag","Wind Dir (10's deg)","Wind Dir Flag","Wind Spd (km/h)","Wind Spd Flag","Visibility (km)","Visibility Flag","Stn Press (kPa)","Stn Press Flag","Hmdx","Hmdx Flag","Wind Chill","Wind Chill Flag","Weather"
+"2007-10-1 0:00","2007","10","1","0:00","","","","","","","","","","","","","","","","","","",""
+"2007-10-1 0:30","2007","10","1","0:30","2.10","","0.60","","90.00","","28.00","","13.00","","24.10","","101.22","","","","","","Clear"
+"2007-10-1 1:00","2007","10","1","1:00","","","","","","","","","","","","","","","","","","",""
+"2007-10-1 1:30","2007","10","1","1:30","2.10","","0.60","","93.00","","28.00","","15.00","","24.20","","102.22","","","","","","Clear"
+"2007-10-1 2:00","2007","10","1","2:00","2.50","","0.70","","93.00","","28.00","","15.00","","24.20","","103.22","","","","","","Clear"
+"2007-7-15 2:00","2007","3","11","2:00","2.50","","0.70","","93.00","","28.00","","15.00","","24.20","","103.22","","","","","","Clear"
